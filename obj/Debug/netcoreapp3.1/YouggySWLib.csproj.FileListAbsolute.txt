@@ -1,0 +1,9 @@
+E:\Développement\perso\youggyswcore\YouggySWLib\obj\Debug\netcoreapp3.1\YouggySWLib.csprojAssemblyReference.cache
+E:\Développement\perso\youggyswcore\YouggySWLib\obj\Debug\netcoreapp3.1\YouggySWLib.AssemblyInfoInputs.cache
+E:\Développement\perso\youggyswcore\YouggySWLib\obj\Debug\netcoreapp3.1\YouggySWLib.AssemblyInfo.cs
+E:\Développement\perso\youggyswcore\YouggySWLib\obj\Debug\netcoreapp3.1\YouggySWLib.csproj.CoreCompileInputs.cache
+E:\Développement\perso\youggyswcore\YouggySWLib\bin\Debug\netcoreapp3.1\YouggySWLib.deps.json
+E:\Développement\perso\youggyswcore\YouggySWLib\bin\Debug\netcoreapp3.1\YouggySWLib.dll
+E:\Développement\perso\youggyswcore\YouggySWLib\bin\Debug\netcoreapp3.1\YouggySWLib.pdb
+E:\Développement\perso\youggyswcore\YouggySWLib\obj\Debug\netcoreapp3.1\YouggySWLib.dll
+E:\Développement\perso\youggyswcore\YouggySWLib\obj\Debug\netcoreapp3.1\YouggySWLib.pdb
