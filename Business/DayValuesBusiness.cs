@@ -17,9 +17,9 @@ namespace YouggySWLib.Business
             dayValuesDal.InsertDayValue(value);
         }
 
-        public DateTime? GetLastDateValueInserted(string exchange, string symbol)
+        public DateTime? GetLastDateValueInserted(int idSymbol)
         {
-            DataTable table = dayValuesDal.GetLastDateValueInserted(exchange, symbol);
+            DataTable table = dayValuesDal.GetLastDateValueInserted(idSymbol);
 
             foreach (DataRow dayValueRow in table.Rows)
             {

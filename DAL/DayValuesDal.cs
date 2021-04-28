@@ -35,13 +35,10 @@ namespace YouggySWLib.DAL
             throw new NotImplementedException();
         }
 
-        public DataTable GetLastDateValueInserted(string exchange, string symbol)
+        public DataTable GetLastDateValueInserted(int idSymbol)
         {
-            // TODO GET ID OF EXCHANGE
             Dictionary<string, object> parameters = new Dictionary<string, object>();
-            int id = 0;
-            parameters.Add("Id", id);
-            parameters.Add("Symbol", symbol);
+            parameters.Add("IdSymbol", idSymbol);
 
             return dbManager.SelectStoredProcedure("usp_Last_Day_ValuesSelect", parameters);
         }
